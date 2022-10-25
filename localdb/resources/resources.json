@@ -1,0 +1,15 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
